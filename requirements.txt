@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+Flask
+Flask-Mail
+pymongo
+python-magic
+=======
+Flask==3.2.2
+Flask-Mail==0.9.1
+pymongo==4.5.0
+python-dotenv==1.0.1
+Werkzeug==3.2.2
+bcrypt==4.1.0
+cryptography==41.0.3
+>>>>>>> 013002583c9c6944a86a45dd2040e9c466978da7

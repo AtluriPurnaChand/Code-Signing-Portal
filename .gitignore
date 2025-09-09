@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Flask & local files
+instance/
+*.log
+*.pid
+*.swp
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Certificates & private keys (security!)
+backend/certs/
+*.pem
+*.key
+*.crt
+*.csr
+*.pfx
+
+# Uploaded files
+uploads/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
